@@ -6,10 +6,4 @@ Customer Feedback Analysis is a project aimed at extracting valuable insights fr
 
  i)Sentiment Analysis: Determine the sentiment of the feedback (positive, negative, neutral).
  
- ii)Topic Modeling: Identify common themes and topics in the feedback.
- 
- iii)Text Summarization: Generate concise summaries of large volumes of feedback.
- 
- iv)Keyword Extraction: Extract important keywords and phrases from the feedback.
- 
- v)Visualization: Generate visualizations to represent the analysis results, such as word clouds, sentiment distribution charts, and topic clusters.
+ ii)Visualization: Generate visualizations to represent the analysis results, such as word clouds, sentiment distribution charts, and topic clusters.
